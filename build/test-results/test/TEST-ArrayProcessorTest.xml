@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArrayProcessorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-08-01T06:53:08" hostname="DESKTOP-CR4K6HA" time="0.007">
+  <properties/>
+  <testcase name="process1" classname="ArrayProcessorTest" time="0.004"/>
+  <testcase name="process2" classname="ArrayProcessorTest" time="0.001"/>
+  <testcase name="process3" classname="ArrayProcessorTest" time="0.001"/>
+  <testcase name="process4" classname="ArrayProcessorTest" time="0.001"/>
+  <testcase name="process5" classname="ArrayProcessorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,6 +1,6 @@
-package tests.arrayprocessor;
+package dev.scud.tests.arrayprocessor;
 
-import arrayprocessor.ArrayProcessor;
+import dev.scud.arrayprocessor.ArrayProcessor;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

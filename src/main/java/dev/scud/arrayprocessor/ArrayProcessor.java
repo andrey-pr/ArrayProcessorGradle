@@ -1,4 +1,4 @@
-package arrayprocessor;
+package dev.scud.arrayprocessor;
 
 import java.util.ArrayList;
 import java.util.Collections;
